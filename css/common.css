@@ -246,9 +246,9 @@ li {
   font-size: 3em;
 }
 
-.profile_bg {
-  background-color: #fff;
-  height: 30％;
+.profile_bg { 
+  background-color: #fff; 
+  height: 30%; 
 }
 
 .intro {
@@ -257,7 +257,7 @@ li {
   align-items: center;
 }
 
-.intro img {
+.intro_img {
   padding-right: 5%;
 }
 
